@@ -1,1 +1,5 @@
-site_name: DDEV Docs
+site_name: DDEV-Local Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
