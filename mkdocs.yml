@@ -1,6 +1,5 @@
 site_name: DDEV-Local Documentation
 site_author: Kamil Berke Demirci
-docs_dir: docs/content
 nav:
   - Home: index.md
   - About: about.md
